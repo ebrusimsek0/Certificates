@@ -11,3 +11,5 @@
 ![](img/MLtraining_and_deployment_GlobalAIHub.png)
 
 ![](img/Bioinfoconference.png)
+
+![](img/Introduction_to_Machine_Learning_GlobalAIHub_Course2.png)
