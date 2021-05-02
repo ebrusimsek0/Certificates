@@ -14,4 +14,4 @@
 
 ![](img/Introduction_to_Machine_Learning_GlobalAIHub_Course2.png)
 
-![](img/rpa.png)
+![](img/h_rpa.png)
