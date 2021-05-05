@@ -15,3 +15,5 @@
 ![](img/Introduction_to_Machine_Learning_GlobalAIHub_Course2.png)
 
 ![](img/h_rpa.png)
+
+![](img/toplearner.png)
